@@ -1,6 +1,15 @@
 
 # 🎯 Moneyball AI Lead Scoring App
 
+## 📣 Project Background
+
+This application was developed as part of the **AI Challenge Competition by [SabPaisa](https://www.sabpaisa.in/)**.
+
+The challenge focused on building a smart lead scoring solution to help businesses prioritize high-converting leads using AI, clustering, and explainability tools.
+
+🔍 This app is a working prototype created for that competition using mock AI logic, visual dashboards, and data science techniques — ready to be enhanced with real models in production!
+
+
 This Streamlit-based app uses a "Moneyball" strategy to help you identify, score, and prioritize leads using data science. It's designed to make lead qualification smarter, faster, and explainable — all in a beautiful, browser-based interface.
 
 🔗 **Live App:** [Click here to open](https://moneyball-ai-app-kzhkcuaxwp8jvj4tbw7fex.streamlit.app/)
