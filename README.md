@@ -65,7 +65,17 @@ Made with 💡 by **Sonam Jha (Sabpaisa) (Sonam0012)**
 
 ## 📸 Screenshots
 
-*You can upload screenshots here later by dragging images into the README on GitHub.*
+![Screenshot 2025-06-29 034322](https://github.com/user-attachments/assets/3cd8d9e2-3d8c-46e8-af8c-13a49c0d804a)
+![Screenshot 2025-06-29 054725](https://github.com/user-attachments/assets/4fea35ac-6e6a-4fa7-9b33-91e5c94c9589)
+![Screenshot 2025-06-29 054750](https://github.com/user-attachments/assets/e54cdc94-b1ee-4e8d-8a58-459387a8399e)
+![Screenshot 2025-06-29 054807](https://github.com/user-attachments/assets/afe581e6-0beb-497a-91a2-170fb04279c6)
+![Screenshot 2025-06-29 054819](https://github.com/user-attachments/assets/58b9a894-918d-4ba7-8d72-dc2799a00bf1)
+![Screenshot 2025-06-29 054840](https://github.com/user-attachments/assets/a2877944-dcdf-4374-bbc4-893d010631c6)
+
+
+
+
+
 
 ---
 
