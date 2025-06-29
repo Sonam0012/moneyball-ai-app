@@ -57,7 +57,7 @@ streamlit run app.py
 
 ## 📬 Author
 
-Made with 💡 by **Ishwar (Sonam0012)**  
+Made with 💡 by **Sonam Jha (Sabpaisa) (Sonam0012)**  
 📧 Email: [toontribetoontoon@gmail.com](mailto:toontribetoontoon@gmail.com)  
 🔗 GitHub: [https://github.com/Sonam0012](https://github.com/Sonam0012)
 
